@@ -1,0 +1,11 @@
+header{
+    width: 100%;
+    z-index: 40; 
+}
+header  img{
+    margin: 0;
+    width: 100%;   
+}
+img{
+    height: 650px;
+}

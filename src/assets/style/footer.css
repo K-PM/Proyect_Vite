@@ -1,0 +1,28 @@
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 25px;
+    background-color: rgb(185, 184, 184);
+}
+ a{
+    background-color: rgb(185, 184, 184);
+}
+a img{
+    background-color: rgb(185, 184, 184);
+    width: 15px;
+    height: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+    
+}
+footer p{
+    margin-top: -20px;
+    display: flex;
+    justify-content: right;
+    background-color: rgb(185, 184, 184);
+    margin-right: 15px;
+    font-size: 8px;
+    font-family: 'Papyrus';
+}
+

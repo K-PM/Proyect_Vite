@@ -1,0 +1,18 @@
+.container{
+    width: 100%;
+    height: 350px;
+}
+.container h2{
+    color: white;
+    font-family: 'Papyrus';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+.animes{
+    color: white;
+    font-family: 'Papyrus';
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}

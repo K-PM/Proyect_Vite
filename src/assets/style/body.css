@@ -1,0 +1,75 @@
+
+body{
+    width: 100%;    
+}
+
+.columns{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.columns div img{
+    width: 80%;
+    height: 80%;
+    margin-top: 45px;
+    margin-left: 45px;
+    /*esto hace que no este detras de nav transform: translate(10%,10%); */
+}
+.columns div{
+    background-color: rgb(185, 184, 184);
+    width: 50%;
+    height: 500px;
+}
+.columns div p{
+    background-color: rgb(185, 184, 184);
+    margin-top: 100px;
+    color: black;
+    font-family: 'Papyrus';
+    font-size: 20px;
+    text-align:left;
+}
+div h3{
+    font-family: 'Papyrus';
+    font-size: 40px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 650px;
+     /*transform: translate(50%,0%); esto hace que no pase atras de nav*/
+}
+
+.columns2{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+}
+.columns3 div img{
+    width: 50%;
+    height: 50%;
+    margin-left: 75px;
+}
+.columns3 div p{
+    color: white;
+    font-family: 'Papyrus';
+    font-size: 20px;
+    margin-left: 150px;
+}
+.temp{ 
+    width: 15%;
+    height: 350px;
+    margin-left: 55px;
+    float: left;
+    margin-bottom: 100px;
+}
+.temporada{
+    color: white;
+    font-family: 'Papyrus';
+    font-size: 20px;
+    margin-left: 10px;
+    float: left;
+    
+}
